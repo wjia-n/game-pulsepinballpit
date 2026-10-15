@@ -83,6 +83,6 @@ const arcadeConfig = ArcadeConfig(
   fallDown: false,
   tip1Id: 'pulsepinballpitmilkshake',
   tip2Id: 'pulsepinballpitsandwich',
-  tip1Label: '💛 Buy me a milkshake',
-  tip2Label: '💛 Buy me a sandwich',
+  tip1Label: '💛 Pulse Pinball Pit milkshake',
+  tip2Label: '💛 Pulse Pinball Pit sandwich',
 );
